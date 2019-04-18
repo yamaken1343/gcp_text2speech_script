@@ -5,7 +5,7 @@
 2. enable text to speech api
 3. get service account key
 4. `$export GOOGLE_APPLICATION_CREDENTIALS=service_account_key.json`
-5. `$ bash text2speech.sh "text" "output.mp3/wav"`
+5. `$ bash text2speech.sh "text" "output.wav"`
 
 ## License
 
