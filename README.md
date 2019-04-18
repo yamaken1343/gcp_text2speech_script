@@ -1,11 +1,11 @@
 # GCP text to speech easy script
 
 ## How to Use
-1. get GCP acount and GCP SDK
+1. get GCP account and GCP SDK
 2. enable text to speech api
 3. get service account key
 4. `$export service_account_key.json`
-5. bash text2speech.sh "text" "output.mp3/wav"
+5. `$ bash text2speech.sh "text" "output.mp3/wav"``
 
 ## License
 
